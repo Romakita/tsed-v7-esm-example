@@ -25,14 +25,14 @@
 
 ```batch
 # install dependencies
-$ pnpm install
+$ npm install
 
 # serve
-$ pnpm start
+$ npm run start
 
 # build for production
-$ pnpm build
-$ pnpm start:prod
+$ npm run build
+$ npmr run start:prod
 ```
 
 ## Docker
